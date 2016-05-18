@@ -10,7 +10,7 @@ title: Cancer and the DNA
 email: shubhamagarwal1993@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Identify signs of cancer with blood sample.
-  Identify a unique cell by an electric pulse.
+    Identify a unique cell by an electric pulse.
   Send electric pulse to kill the cell.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
