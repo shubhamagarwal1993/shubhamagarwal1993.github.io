@@ -2,7 +2,7 @@
 
 A very simple personal website
 
-## Using mermaid
+## Using mermaid (https://github.com/mermaid-js/mermaid)
 ```mermaid
 flowchart TD
     A[Deploy to production] --> B{Is it Friday?};
